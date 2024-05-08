@@ -1,0 +1,53 @@
+{
+	"posts":[
+		{
+		  "id": 1,
+		  "name": "John",
+		  "age": 30,
+		  "city": "New York",
+		  "country": "USA",
+		  "occupation": "Software Engineer"
+		},
+		{
+		  "id": 2,
+		  "name": "Emily",
+		  "age": 38,
+		  "city": "London",
+		  "country": "UK",
+		  "occupation": "Graphic Designer"
+		},
+		{
+		  "id": 3,
+		  "name": "Luis",
+		  "age": 35,
+		  "city": "Barcelona",
+		  "country": "Spain",
+		  "occupation": "Architect"
+		},
+		{
+		  "id": 4,
+		  "name": "Sakura",
+		  "age": 32,
+		  "city": "Tokyo",
+		  "country": "Japan",
+		  "occupation": "Marketing Manager"
+		},
+		{
+		  "id": 5,
+		  "name": "Ahmed",
+		  "age": 29,
+		  "city": "Cairo",
+		  "country": "Egypt",
+		  "occupation": "Doctor"
+		},
+		{
+		  "id": 6,
+		  "name": "Maria",
+		  "age": 27,
+		  "city": "São Paulo",
+		  "country": "Brazil",
+		  "occupation": "Journalist"
+		}
+	 ]
+	 
+}
